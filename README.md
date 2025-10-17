@@ -1,4 +1,4 @@
-# Academias de Ciencias COmputacionales, Seguridad en TI y Ciberseguridad — FCFM-UANL
+# Academias de Ciencias Computacionales, Seguridad en TI y Ciberseguridad — FCFM-UANL
 
 **Repositorio oficial de divulgación académica en temas de Ciberseguridad de la Facultad de Ciencias Físico Matemáticas (FCFM), Universidad Autónoma de Nuevo León (UANL).**  
 Este espacio reúne materiales educativos, infografías, ejercicios y soluciones aplicados en talleres, retos y eventos de Ciberseguridad y tecnologías afines organizados por:
