@@ -81,10 +81,10 @@ Consulta la sección [Releases](https://github.com/MarViera/div_ciberseguridad_f
 
 ## 🤝 Contacto institucional
 > *“La ciberseguridad no comienza con la tecnología, sino con la conciencia. Educar es proteger.”*
-Dra. Perla Marlene Viera González
-Dr. Guillermo Ezequiel Sánchez Guerrero
-M.I.S.I. Osvaldo Habib González González
-M.A. Reyna Guadalupe Castro Medellín
+> Dra. Perla Marlene Viera González
+> Dr. Guillermo Ezequiel Sánchez Guerrero
+> M.I.S.I. Osvaldo Habib González González
+> M.A. Reyna Guadalupe Castro Medellín
 **Academias de Ciencias Computacionales, de Seguridad en Tecnologías de Información y de Ciberseguridad**  
 Facultad de Ciencias Físico Matemáticas  
 Universidad Autónoma de Nuevo León  
