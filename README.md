@@ -85,6 +85,7 @@ Consulta la sección [Releases](https://github.com/MarViera/div_ciberseguridad_f
 - Dr. Guillermo Ezequiel Sánchez Guerrero
 - M.I.S.I. Osvaldo Habib González González
 - M.A. Reyna Guadalupe Castro Medellín
+
 **Academias de Ciencias Computacionales, de Seguridad en Tecnologías de Información y de Ciberseguridad**  
 Facultad de Ciencias Físico Matemáticas  
 Universidad Autónoma de Nuevo León  
